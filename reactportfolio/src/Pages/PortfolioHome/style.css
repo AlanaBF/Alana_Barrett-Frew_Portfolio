@@ -1,0 +1,45 @@
+.display-4 {
+    color: #5FF;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: end;
+  }
+  
+  .intro {
+    color: #5FF;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: end;
+  }
+  
+  .lead {
+    color: #5FF;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: end;
+  }
+  
+  .jumbotron {
+    height: auto;
+    width: auto;
+    background-size: 100% 100%;
+    background: cover;
+  }
+
+  h1 {
+    font-style: italic;
+    color: #5FF;
+  }
+  
+  h2 {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: #5FF;
+  }
+
+p {
+    color: #5FF !important;
+  }
+
+   img {
+     max-width: 25%;
+     max-height:50%;
+     float: left;
+   }

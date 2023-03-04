@@ -1,0 +1,32 @@
+nav.navbar {
+    margin-bottom: 0;
+    background:  #5FF;
+  }
+
+
+  * {
+    padding: 5px;
+    margin: 0;
+    box-sizing: border-box;
+  
+  }
+  
+  body {
+    background-color: #48B;
+  }
+
+  nav a:hover {
+    background-color: white !important;
+  }
+  
+  .navbar-brand {
+    color: #48B !important;
+  }
+
+  .navbar {
+    background-color: #5FF !important;
+  }
+  
+  #navbarDropdown {
+    color: #5FF !important;
+  }
