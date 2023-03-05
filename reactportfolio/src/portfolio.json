@@ -1,44 +1,51 @@
 [
   {
     "id": 1,
-    "name": "",
-    "image": "",
-    "Github": "",
-    "Url": ""
+    "key": 1,
+    "name": "Crypto Tracker",
+    "image": "Pages/ProjectPortfolioGallery/assets/images/Screenshot-Main-Page.png",
+    "Github": "https://github.com/AlanaBF/Project-1-Crypto-Tracker",
+    "deployedLink": "https://alanabf.github.io/Project-1-Crypto-Tracker/"
+
   },
   {
     "id": 2,
-    "projectTitle": "",
-    "screenshot": "",
-    "GithubLink": "",
-    "UrlLink": ""
+    "key": 2,
+    "name": "Team profile Generator",
+    "image": "Pages/ProjectPortfolioGallery/assets/images/Screenshot-team-members.png",
+    "Github": "https://github.com/AlanaBF/Team-Profile-Generator",
+    "deployedLink": "not deployed"
   },
   {
     "id": 3,
-    "projectTitle": "",
-    "screenshot": "",
-    "GithubLink": "",
-    "UrlLink": ""
+    "key": 3,
+    "name": "README Generator",
+    "image": "",
+    "Github": "https://github.com/AlanaBF/README-Generator",
+    "deployedLink": "not deployed"
   },
   {
     "id": 4,
-    "projectTitle": "",
-    "screenshot": "",
-    "GithubLink": "",
-    "UrlLink": ""
+    "key": 4,
+    "name": "Weather Dashboard",
+    "image": "assets/images/Screenshot-Weather-Dashboard.png",
+    "Github": "https://github.com/AlanaBF/Weather-Dashboard",
+    "deployedLink": "https://alanabf.github.io/Weather-Dashboard/"
   },
   {
     "id": 5,
-    "projectTitle": "",
-    "screenshot": "",
-    "GithubLink": "",
-    "UrlLink": ""
+    "key": 5,
+    "name": "Daily Planner",
+    "image": "assets/images/Screenshot-daily-planner.png",
+    "Github": "https://github.com/AlanaBF/Daily-Planner-App",
+    "deployedLink": "https://alanabf.github.io/Daily-Planner-App/"
   },
   {
     "id": 6,
-    "projectTitle": "",
-    "screenshot": "",
-    "GithubLink": "",
-    "UrlLink": ""
+    "key": 6,
+    "name": "",
+    "image": "",
+    "Github": "",
+    "deployedLink": ""
   }
 ]

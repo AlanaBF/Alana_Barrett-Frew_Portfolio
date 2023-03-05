@@ -26,12 +26,12 @@
   h1 {
     font-style: italic;
     color: #5FF;
+   padding: 0;
   }
   
   h2 {
-    padding-top: 10px;
-    padding-bottom: 10px;
     color: #5FF;
+    font-size: large;
   }
 
 p {
@@ -43,3 +43,9 @@ p {
      max-height:50%;
      float: left;
    }
+
+   .skill {
+    border: 5px solid #5FF;
+    background-color: #48B;
+    color: #5FF
+  }

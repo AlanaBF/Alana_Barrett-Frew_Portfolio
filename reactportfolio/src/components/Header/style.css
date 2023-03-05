@@ -1,5 +1,5 @@
 nav.navbar {
-    margin-bottom: 0;
+    margin: 10px;
     background:  #5FF;
   }
 
@@ -27,6 +27,3 @@ nav.navbar {
     background-color: #5FF !important;
   }
   
-  #navbarDropdown {
-    color: #5FF !important;
-  }

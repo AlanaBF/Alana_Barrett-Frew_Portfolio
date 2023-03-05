@@ -52,6 +52,36 @@ function PortfolioHome() {
                 the great outdoors, animals, sailing, water sports, camping, walking, gardening and
                 travelling with a special love for the Maldives.
             </p>
+
+<h1>My Skills</h1>
+            <div id="main-container" class="container-fluid">
+                <div class="row">
+                    <div class="col-3 skill">How to create a professional project portfolio</div>
+                    <div class="col-3 skill">Team collaboration</div>
+                    <div class="col-3 skill">Agile development Methodologies</div>
+                    <div class="col-3 skill">Project demonstration and storytelling</div>
+                    <div class="col-3 skill">Prince 2 Foundation and Practitioner</div>
+                    <div class="col-3 skill">AgilePM Foundation and Practitioner</div>
+                    <div class="col-3 skill">User experience design </div>
+                    <div class="col-3 skill">HTML/CSS/Git</div>
+                    <div class="col-2 skill">JavaScript</div>
+                    <div class="col-2 skill">Bootstrap</div>
+                    <div class="col-2 skill">The DOM</div>
+                    <div class="col-3 skill">APIs</div>
+                    <div class="col-3 skill">JQuery</div>
+                    <div class="col-2 skill">JSON</div>
+                    <div class="col-2 skill">AJAX</div>
+                    <div class="col-2 skill">Node.js</div>
+                    <div class="col-3 skill">ES6</div>
+                    <div class="col-3 skill">Object-orientated programming</div>
+                    <div class="col-4 skill">Test-Driven development</div>
+                    <div class="col-2 skill">React</div>
+                    <div class="col-3 skill">Behavior-driven development</div>
+                    <div class="col-3 skill">Deployment</div>
+
+                </div>
+            </div>
+
         </Container>
     )
 }

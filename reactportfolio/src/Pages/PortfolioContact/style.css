@@ -1,0 +1,31 @@
+h1 {
+    text-align: center;
+    margin-top: 4rem;
+}
+
+p {
+    text-align: center;
+    margin-top: 4rem;
+}
+
+.button {
+    color: #48B;
+    background-color: #5FF;
+    margin-left: 150px !important;
+    margin-right: 100px !important;
+    margin-top: 60px !important;
+    justify-content: center !important;
+    align-items: center !important;
+}
+
+.link-button {
+    color: #48B;
+    background-color: #5FF;
+    margin-left: 41rem !important;
+    margin-top: 60px !important;
+    justify-content: center !important;
+    align-items: center !important;
+}
+
+
+
