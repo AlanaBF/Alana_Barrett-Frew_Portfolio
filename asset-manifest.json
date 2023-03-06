@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Alana_Barrett-Frew_Portfolio/static/css/main.9204f435.css",
-    "main.js": "/Alana_Barrett-Frew_Portfolio/static/js/main.a86e8dfd.js",
+    "main.css": "/Alana_Barrett-Frew_Portfolio/static/css/main.c2f37b52.css",
+    "main.js": "/Alana_Barrett-Frew_Portfolio/static/js/main.741fb07d.js",
     "static/media/BackgroundImage.jpeg": "/Alana_Barrett-Frew_Portfolio/static/media/BackgroundImage.3d9133945339f9dff857.jpeg",
     "static/media/ProfilePic.jpeg": "/Alana_Barrett-Frew_Portfolio/static/media/ProfilePic.84ac953fc27e6e4f378e.jpeg",
     "static/media/Alana-Barrett-Frew-CV.pdf": "/Alana_Barrett-Frew_Portfolio/static/media/Alana-Barrett-Frew-CV.b47850e428bf45924071.pdf",
     "index.html": "/Alana_Barrett-Frew_Portfolio/index.html",
-    "main.9204f435.css.map": "/Alana_Barrett-Frew_Portfolio/static/css/main.9204f435.css.map",
-    "main.a86e8dfd.js.map": "/Alana_Barrett-Frew_Portfolio/static/js/main.a86e8dfd.js.map"
+    "main.c2f37b52.css.map": "/Alana_Barrett-Frew_Portfolio/static/css/main.c2f37b52.css.map",
+    "main.741fb07d.js.map": "/Alana_Barrett-Frew_Portfolio/static/js/main.741fb07d.js.map"
   },
   "entrypoints": [
-    "static/css/main.9204f435.css",
-    "static/js/main.a86e8dfd.js"
+    "static/css/main.c2f37b52.css",
+    "static/js/main.741fb07d.js"
   ]
 }
