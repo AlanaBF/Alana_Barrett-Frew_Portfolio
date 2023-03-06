@@ -1,0 +1,31 @@
+.formlabel {
+    color: #5FF;
+    margin-left:32rem;
+    text-align: center;
+    justify-content: center;
+}
+
+.forminput{
+    margin-left: 10rem;
+    text-align: center;
+    justify-content: center;
+}
+
+.formsubmit {
+    margin-left: 45rem;
+    text-align: center;
+    justify-content: center;
+}
+
+.messagebox {
+    margin-left:40rem;
+    text-align: center;
+    justify-content: center;
+}
+
+.messagelabel {
+    color:#5FF;
+    margin-left:40rem;
+    text-align: center;
+    justify-content: center;
+}
