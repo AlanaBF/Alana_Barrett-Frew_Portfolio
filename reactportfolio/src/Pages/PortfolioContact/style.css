@@ -11,8 +11,8 @@ p {
 .button {
     color: #48B;
     background-color: #5FF;
-    margin-left: 250px !important;
-    margin-right: 100px !important;
+    margin-left: 15% !important;
+    margin-right: 10% !important;
     margin-top: 60px !important;
     justify-content: center !important;
     align-items: center !important;
@@ -21,7 +21,8 @@ p {
 .link-button {
     color: #48B;
     background-color: #5FF;
-    margin-left: 41rem !important;
+    margin-left: 45% !important;
+    margin-right: 45% !important;
     margin-top: 60px !important;
     justify-content: center !important;
     align-items: center !important;
