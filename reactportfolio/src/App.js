@@ -1,11 +1,7 @@
 import React from 'react';
 import { HashRouter as Router, Route, Routes } from 'react-router-dom';
-import Header from './components/Header/Header';
-import PortfolioHome from './Pages/PortfolioHome/PortfolioHome';
-import PortfolioContact from './Pages/PortfolioContact/PortfolioContact';
-import PortfolioProjectGallery from './Pages/PortfolioProjectGallery/PortfolioProjectGallery';
-import CV from './Pages/CV/CV'
-import Footer from "./components/Footer/index"
+import {Home, Contact, ProjectGallery, CV} from "./Pages"
+import {Footer, Header} from "./components";
 
 function App() {
   return (
@@ -13,11 +9,11 @@ function App() {
       <div>
         <Header />
         <Routes>
-          <Route path="/" element={<PortfolioHome />} />
-          <Route path="/PortfolioHome" element={<PortfolioHome />} />
-          <Route path="/PortfolioContact" element={<PortfolioContact />} />
+          <Route path="/" element={<Home />} />
+          <Route path="/Home" element={<Home />} />
+          <Route path="/Contact" element={<Contact />} />
           <Route path="/CV" element={<CV />} />
-          <Route path="/PortfolioProjectGallery" element={<PortfolioProjectGallery />} />
+          <Route path="/ProjectGallery" element={<ProjectGallery />} />
         </Routes>
         <Footer />
       </div>

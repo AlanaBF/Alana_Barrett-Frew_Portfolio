@@ -1,10 +1,9 @@
 import React from "react";
 import "./style.css";
 
+function Card({ project }) {
+    const { name, image, Github, deployedLink, about } = project
 
-function Card({project}) {
-    const {name, image, Github, deployedLink} = project
-    
     return (
         <div className="card">
             <div className="img-container">
@@ -12,15 +11,18 @@ function Card({project}) {
             </div>
             <div className="content">
                 <ul>
-                    <li>
-                        <strong>Project Title:</strong> {name}
-                    </li>
-                    <li>
-                        <strong>GitHub Link:</strong> {Github}
-                    </li>
-                    <li>
-                        <strong>URL:</strong> {deployedLink}
-                    </li>
+                    <div>
+                        <h4><strong>{name}</strong></h4>
+                    </div>
+                    <div>
+                        <a href={Github}>Github</a>
+                    </div>
+                    <div>
+                        {deployedLink === "not deployed" ? <h5>Backend Project</h5> : <a href={deployedLink}>Deployed Web Page</a>}
+                    </div>
+                    <div>
+                        <h5>{about}</h5>
+                    </div>
                 </ul>
             </div>
         </div>
