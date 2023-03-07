@@ -47,10 +47,10 @@ p {
 }
 
 img {
-  max-width: 25%;
-  max-height: 50%;
+  width: 15%;
+  height: 30%;
   float: left;
-  margin-right: 5%;
+  margin-right: 1%;
 }
 
 .skill {

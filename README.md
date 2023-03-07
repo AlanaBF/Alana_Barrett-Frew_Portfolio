@@ -24,8 +24,16 @@
 ## Description 
 A portfolio to showcase me including my skills, experience, projects  and more.
 
+Deployed Site: https://alanabf.github.io/Alana_Barrett-Frew_Portfolio/#/Home
+
 ## Usage 
 You can use this application to find out more about me. You can click on the links to contact me, or to view my deployed projects and their Github links.
+
+## Screenshots
+![alt text](./reactportfolio/src/assets/HomePage.png)
+![alt text](./reactportfolio/src/assets/Gallery-Page.png)
+![alt text](./reactportfolio/src/assets/Contact-Page.png)
+![alt text](./reactportfolio/src/assets/CV-Page.png)
 
 ## Contributing   
 *List of collaborators*
