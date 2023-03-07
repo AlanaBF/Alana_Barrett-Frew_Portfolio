@@ -3,7 +3,7 @@
     "id": 1,
     "key": 1,
     "name": "Crypto Tracker",
-    "image": "/ProjectPortfolioGallery/assets/images/Screenshot-Main-Page.png",
+    "image": "https://drive.google.com/uc?export=view&id=1pPgDgXJQVu7sgTaLtn0kLd6lKQYESQc_",
     "Github": "https://github.com/AlanaBF/Project-1-Crypto-Tracker",
     "deployedLink": "https://alanabf.github.io/Project-1-Crypto-Tracker/"
 
@@ -12,23 +12,23 @@
     "id": 2,
     "key": 2,
     "name": "Team profile Generator",
-    "image": "Pages/ProjectPortfolioGallery/assets/images/Screenshot-team-members.png",
-    "Github": "./https://github.com/AlanaBF/Team-Profile-Generator",
+    "image": "https://drive.google.com/uc?export=view&id=1421N1HS76Xenq5qAtocIwg2ZKrB7btaS",
+    "Github": "https://github.com/AlanaBF/Team-Profile-Generator",
     "deployedLink": "not deployed"
   },
   {
     "id": 3,
     "key": 3,
     "name": "README Generator",
-    "image": "",
+    "image": "https://drive.google.com/uc?export=view&id=1uOTqn2E6CtGOd5LXo3g1AaWPbkg_Y9dA",
     "Github": "https://github.com/AlanaBF/README-Generator",
-    "deployedLink": "not deployed"
+    "deployedLink": "run command line: node index.js"
   },
   {
     "id": 4,
     "key": 4,
     "name": "Weather Dashboard",
-    "image": "assets/images/Screenshot-Weather-Dashboard.png",
+    "image": "https://drive.google.com/uc?export=view&id=1A7njQ0nI1l2qVNjkAiDkKNGpTj1J4Msn",
     "Github": "https://github.com/AlanaBF/Weather-Dashboard",
     "deployedLink": "https://alanabf.github.io/Weather-Dashboard/"
   },
@@ -36,16 +36,16 @@
     "id": 5,
     "key": 5,
     "name": "Daily Planner",
-    "image": "assets/images/Screenshot-daily-planner.png",
+    "image": "https://drive.google.com/uc?export=view&id=1EQsfRVOzVWqiYI_XBXgQ7qAoz_5SfnjF",
     "Github": "https://github.com/AlanaBF/Daily-Planner-App",
     "deployedLink": "https://alanabf.github.io/Daily-Planner-App/"
   },
   {
     "id": 6,
     "key": 6,
-    "name": "",
-    "image": "",
-    "Github": "",
-    "deployedLink": ""
+    "name": "Generate Password",
+    "image": "https://drive.google.com/uc?export=view&id=1Z9gEj_CpVcMhHjTBUJpCaVuW8kDtuFuA",
+    "Github": "https://github.com/AlanaBF/Password-Generator",
+    "deployedLink": "https://alanabf.github.io/Password-Generator/"
   }
 ]

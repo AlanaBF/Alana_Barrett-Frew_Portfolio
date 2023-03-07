@@ -4,6 +4,7 @@ import "./style.css";
 
 function Card({project}) {
     const {name, image, Github, deployedLink} = project
+    
     return (
         <div className="card">
             <div className="img-container">

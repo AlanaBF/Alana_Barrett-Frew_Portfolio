@@ -1,8 +1,8 @@
 .card {
     background: #fff;
-    border-radius: 2px;
+    border-radius: 2%;
     height: 100%;
-    margin: 1rem;
+    margin: 1%;
     position: relative;
     width: 30%;
     text-align: left;
@@ -15,12 +15,12 @@
     background:#48B;
   }
   .card > .img-container > img {
-    width: 60%
+    width: 60%;
   }
   
   .card > .content {
-    padding-left: 1rem;
-    padding-right: 1rem;
+    padding-left: 5%;
+    padding-right: 1%;
     font-size: 15px;
   }
   
