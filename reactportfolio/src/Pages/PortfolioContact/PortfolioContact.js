@@ -11,20 +11,22 @@ function PortfolioContact() {
             <h1>Contact Me</h1>
             <p>
                 If you want to get in contact please use the form below or click on one of the links:
-            </p> 
+            </p>
+            <div className="buttongroup">
+                <Button className="button" href="https://twitter.com/AlanaBF81">Twitter</Button>
+                <Button className="button" href="https://github.com/AlanaBF">Github</Button>
+                <Button className="button" href="https://www.linkedin.com/in/alanabarrettfrew">LinkedIn</Button>
+            </div>
             <div>
-            <ContactMe />
-        </div>
-            <Button className="button" href="https://twitter.com/AlanaBF81">Twitter</Button>
-            <Button className="button" href="https://github.com/AlanaBF">Github</Button>
-            <Button className="button" href="https://www.linkedin.com/in/alanabarrettfrew">LinkedIn</Button>
+                <ContactMe />
+            </div>
             <p>
                 If you like what you see and have a role that I may be suitable for, please take a look at my CV and LinkedIn Profile. I am open to work and would relish the challenge of a Front End Developer role.
             </p>
-            <LinkContainer to="/CV"><Nav.Link ><Button className="link-button">Alana CV</Button></Nav.Link></LinkContainer>
-       
-        
-        
+            <LinkContainer to="/CV"><Nav.Link ><Button className="link-button">CV</Button></Nav.Link></LinkContainer>
+
+
+
         </div>
     )
 }

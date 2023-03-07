@@ -1,12 +1,10 @@
 import React from "react";
+import "./style.css";
 
 function Footer() {
     return (
         <footer className="footer">
-            <h1>Made with ❤️️ by Alana</h1>
-            <p>
-                &copy; 2023 Alana Barrett-Frew
-            </p>
+            <p>Made with ❤️️ by Alana &copy; 2023 Alana Barrett-Frew</p>
         </footer>
     );
 }

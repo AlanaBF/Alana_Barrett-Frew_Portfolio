@@ -1,51 +1,52 @@
-.display-4 {
-    color: #5FF;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    text-align: end;
-  }
-  
-  .intro {
-    color: #5FF;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    text-align: end;
-  }
-  
-  .lead {
-    color: #5FF;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    text-align: end;
-  }
-  
-  .jumbotron {
-    height: auto;
-    width: auto;
-    background-size: 100% 100%;
-    background: cover;
-  }
+.myname {
+  color: #5FF;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  text-align: end;
+}
 
-  h1 {
-    font-style: italic;
-    color: #5FF;
-   padding: 0;
-  }
-  
-  h2 {
-    color: #5FF;
-    font-size: large;
-  }
+.connect {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  text-align:right;
+}
+
+.brand {
+  color: #5FF;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  text-align: end;
+}
+
+.jumbotron {
+  height: auto !important;
+  width: auto;
+  background-size: 100% 100%;
+  background: cover;
+  padding: 0;
+}
+
+h1 {
+  font-style: italic;
+  color: #5FF;
+  padding: 0;
+}
+
+h2 {
+  color: #5FF !important;
+  font-size: large;
+}
 
 p {
-    color: #5FF !important;
-  }
+  color: #5FF !important;
+}
 
-   img {
-     max-width: 25%;
-     max-height:50%;
-     float: left;
-   }
+img {
+  max-width: 25%;
+  max-height: 50%;
+  float: left;
+  margin-right: 5%;
+}
 
-   .skill {
-    border: 5px solid #5FF;
-    background-color: #48B;
-    color: #5FF
-  }
+.skill {
+  border: 5px solid #5FF;
+  background-color: #48B;
+  color: #5FF
+}

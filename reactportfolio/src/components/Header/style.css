@@ -1,29 +1,21 @@
-nav.navbar {
-    margin: 10px;
-    background:  #5FF;
-  }
+* {
+  padding: 5px;
+  margin: 0;
+  box-sizing: border-box;
+}
 
+body {
+  background-color: #48B;
+}
 
-  * {
-    padding: 5px;
-    margin: 0;
-    box-sizing: border-box;
-  
-  }
-  
-  body {
-    background-color: #48B;
-  }
+nav a:hover {
+  background-color: white !important;
+}
 
-  nav a:hover {
-    background-color: white !important;
-  }
-  
-  .navbar-brand {
-    color: #48B !important;
-  }
+.navbar-brand {
+  color: #48B !important;
+}
 
-  .navbar {
-    background-color: #5FF !important;
-  }
-  
+.navbar {
+  background-color: #5FF !important;
+}

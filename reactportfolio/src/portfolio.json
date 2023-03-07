@@ -3,7 +3,7 @@
     "id": 1,
     "key": 1,
     "name": "Crypto Tracker",
-    "image": "Pages/ProjectPortfolioGallery/assets/images/Screenshot-Main-Page.png",
+    "image": "/ProjectPortfolioGallery/assets/images/Screenshot-Main-Page.png",
     "Github": "https://github.com/AlanaBF/Project-1-Crypto-Tracker",
     "deployedLink": "https://alanabf.github.io/Project-1-Crypto-Tracker/"
 
@@ -13,7 +13,7 @@
     "key": 2,
     "name": "Team profile Generator",
     "image": "Pages/ProjectPortfolioGallery/assets/images/Screenshot-team-members.png",
-    "Github": "https://github.com/AlanaBF/Team-Profile-Generator",
+    "Github": "./https://github.com/AlanaBF/Team-Profile-Generator",
     "deployedLink": "not deployed"
   },
   {

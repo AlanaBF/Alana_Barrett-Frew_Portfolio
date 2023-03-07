@@ -18,7 +18,7 @@ function Header() {
         <Navbar.Collapse id="basic-navbar-nav">
           <Nav className="me-auto">
             <LinkContainer to="/PortfolioHome"><Nav.Link >Home</Nav.Link></LinkContainer>
-            <LinkContainer to="/PortfolioGallery"><Nav.Link >Portfolio Gallery</Nav.Link></LinkContainer>
+            <LinkContainer to="/PortfolioProjectGallery"><Nav.Link >Portfolio Gallery</Nav.Link></LinkContainer>
             <LinkContainer to="/PortfolioContact"><Nav.Link >Contact Me</Nav.Link></LinkContainer>
             <LinkContainer to="/CV"><Nav.Link >CV</Nav.Link></LinkContainer>
           </Nav>

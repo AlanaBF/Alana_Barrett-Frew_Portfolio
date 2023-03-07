@@ -1,29 +1,28 @@
 import React from "react";
+import "./style.css";
 
 
-function Card(props) {
+function Card({project}) {
+    const {name, image, Github, deployedLink} = project
     return (
         <div className="card">
             <div className="img-container">
-                <img alt={props.name} src={props.image} />
+                <img alt={name} src={image} />
             </div>
             <div className="content">
                 <ul>
                     <li>
-                        <strong>Project Title:</strong> {props.name}
+                        <strong>Project Title:</strong> {name}
                     </li>
                     <li>
-                        <strong>GitHub Link:</strong> {props.Github}
+                        <strong>GitHub Link:</strong> {Github}
                     </li>
                     <li>
-                        <strong>URL:</strong> {props.deployedLink}
+                        <strong>URL:</strong> {deployedLink}
                     </li>
                 </ul>
             </div>
-
-
         </div>
-
     );
 }
 
