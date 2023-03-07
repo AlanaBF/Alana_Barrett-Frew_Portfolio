@@ -31,8 +31,8 @@ You can use this application to find out more about me. You can click on the lin
 *List of collaborators*
 
 Alana Barrett-Frew
-Emailjs.com to create a form and send me an email direct.
-Course material from instructor.
+* Emailjs.com to create a form and send me an email direct.
+*Course material from instructor.
 
 ## License 
 *This project is licensed under* [MIT](https://choosealicense.com/licenses/mit/)
